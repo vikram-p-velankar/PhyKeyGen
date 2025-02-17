@@ -1,4 +1,4 @@
-#KEY GENERATION AT PHYSICAL LAYER
+# KEY GENERATION AT PHYSICAL LAYER
 
 This is a group Project done to test the generation of Symmetric keys at physical layer. We used RSSI values to calculate disturbances during a data transmission in presence of attacker. The files attaker , Alice ,Bob uploaded in the repository were which were used for comparison and key generation and comparison for intrusion detection. 
 
