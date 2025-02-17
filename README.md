@@ -8,3 +8,5 @@ If entropy is near to 0.5 it is very less likely that there is an intrusion. But
 Once we get the hamming distance we use key generation techniques using cascade and checking down the integrity of files after using cascade and generating a key and comparing the entropy and again.
 
 The resulting keys and cascading methods will show how the keys work against attacker preventing it from gaining access to the files.
+
+## Work of June 2022 as a Summer intern at Avignon University
